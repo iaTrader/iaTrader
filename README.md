@@ -30,8 +30,14 @@ iaTrader Shop, Stock and Strategy Analytics with Tester
 #### Trades analysis - Details
 <img width="1570" height="492" alt="image" src="https://github.com/user-attachments/assets/46441c03-8355-400a-9d8c-3b5dc99c5dcf" />
 
-#### Equity run-ups and drawndowns
+#### Equity run-ups and drawndowns - Overview
 <img width="1570" height="415" alt="image" src="https://github.com/user-attachments/assets/aaf62a8e-96e0-4675-b1e9-8cbb55ad6d23" />
+
+#### Equity run-ups and drawndowns - Run-ups
+<img width="1570" height="233" alt="image" src="https://github.com/user-attachments/assets/9e1d1e7a-6660-4cc3-860f-a21e4050539c" />
+
+#### Equity run-ups and drawndowns - Drawdowns
+<img width="1570" height="321" alt="image" src="https://github.com/user-attachments/assets/c30a50a0-baeb-464e-9311-47738b08fb7e" />
 
 #### Capital efficiency - Overview
 <img width="1570" height="133" alt="image" src="https://github.com/user-attachments/assets/0ed15a34-dd79-4890-ab02-7193399e0450" />
