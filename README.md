@@ -43,8 +43,7 @@ iaTrader Shop, Stock and Strategy Analytics with Tester
 <img width="937" height="154" alt="image" src="https://github.com/user-attachments/assets/cda376e2-e786-45f3-9c79-2902bbae447c" />
 
 #### Capital efficiency - Capital usage
-<img width="1570" height="365" alt="image" src="https://github.com/user-attachments/assets/606f9e98-0a15-40be-a1ab-c422eff55e8a" />
-
+<img width="1281" height="212" alt="image" src="https://github.com/user-attachments/assets/2c08d31a-58f2-429d-b0ca-53a8510010ad" />
 
 ## Overview
 
