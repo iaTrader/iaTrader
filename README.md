@@ -1,7 +1,11 @@
 # iaTrader
 
 iaTrader Shop, Stock and Strategy Analytics with Tester
-<img width="1024" height="588" alt="image" src="https://github.com/user-attachments/assets/14310f52-603f-48f2-a77f-63ab4e3eb0ad" />
+## Shop Analytics
+<img width="1024" height="588" alt="Shop Analytics" src="https://github.com/user-attachments/assets/14310f52-603f-48f2-a77f-63ab4e3eb0ad" />
+
+## Stock Analytics
+<img width="1024" height="588" alt="Stock Analytics" src="https://github.com/user-attachments/assets/c018bb4c-f538-4c7b-a776-343a2221bbb1" />
 
 ## Overview
 
