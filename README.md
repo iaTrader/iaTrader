@@ -9,11 +9,14 @@ iaTrader Shop, Stock and Strategy Analytics with Tester
 
 ## Shop Analytics with Strategy Tester
 
-### Shop Analytics with Tester Enable
+### Shop Analytics Tester
 <img width="1024" height="588" alt="image" src="https://github.com/user-attachments/assets/eca66206-a140-43c1-88ba-2f3d163292c8" />
 
 ### Strategy Tester Statistics
 <img width="1024" height="588" alt="image" src="https://github.com/user-attachments/assets/052e8f3a-e3a8-4848-a7f2-20897dade584" />
+
+### Shop Analytics & Strategy with Tester Enable
+<img width="1576" height="876" alt="iaTrader Shop Analytics & Strategy" src="https://github.com/user-attachments/assets/3f8e91c8-be25-4e45-a4c4-b5d533c0143b" />
 
 ## Overview
 
