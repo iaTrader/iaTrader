@@ -1,6 +1,7 @@
 # iaTrader
 
 iaTrader Shop, Stock and Strategy Analytics with Tester
+<img width="1024" height="588" alt="image" src="https://github.com/user-attachments/assets/14310f52-603f-48f2-a77f-63ab4e3eb0ad" />
 
 ## Overview
 
