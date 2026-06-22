@@ -4,3 +4,6 @@
 [submodule "shop"]
 	path = shop
 	url = https://github.com/iaTrader/iaTrader-shop.git
+[submodule "stock"]
+	path = stock
+	url = https://github.com/iaTrader/iaTrader-stock.git
