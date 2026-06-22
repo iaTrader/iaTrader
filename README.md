@@ -18,6 +18,28 @@ iaTrader Shop, Stock and Strategy Analytics with Tester
 ### Shop Analytics & Strategy with Tester Enable
 <img width="1576" height="876" alt="iaTrader Shop Analytics & Strategy" src="https://github.com/user-attachments/assets/3f8e91c8-be25-4e45-a4c4-b5d533c0143b" />
 
+#### Key stats
+<img width="1570" height="488" alt="image" src="https://github.com/user-attachments/assets/0033e3b8-f95a-4043-9c4d-3ebc967ee218" />
+
+#### Return details
+<img width="1570" height="415" alt="image" src="https://github.com/user-attachments/assets/9e35958d-d4e7-4051-9eef-e0cfe5509a7e" />
+
+#### Trades analysis - Overview
+<img width="1570" height="408" alt="image" src="https://github.com/user-attachments/assets/d4c9c70c-ec20-4ff2-8fba-ce541488fb23" />
+
+#### Trades analysis - Details
+<img width="1570" height="492" alt="image" src="https://github.com/user-attachments/assets/46441c03-8355-400a-9d8c-3b5dc99c5dcf" />
+
+#### Equity run-ups and drawndowns
+<img width="1570" height="415" alt="image" src="https://github.com/user-attachments/assets/aaf62a8e-96e0-4675-b1e9-8cbb55ad6d23" />
+
+#### Capital efficiency - Overview
+<img width="1570" height="133" alt="image" src="https://github.com/user-attachments/assets/0ed15a34-dd79-4890-ab02-7193399e0450" />
+
+#### Capital efficiency - Capital usage
+<img width="1570" height="365" alt="image" src="https://github.com/user-attachments/assets/606f9e98-0a15-40be-a1ab-c422eff55e8a" />
+
+
 ## Overview
 
 iaTrader is a suite of Pine Script® indicators and strategies for TradingView, designed to provide comprehensive market analytics, buy/sell signals, and automated strategy backtesting.
