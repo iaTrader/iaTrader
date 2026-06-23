@@ -1,10 +1,12 @@
-# iaTrader
+# iaTrader - Market Intelligence
 
 iaTrader Shop, Stock and Strategy Analytics with Tester
 
-## Overview
+## 🎯 Objectives
 
-iaTrader is a suite of Pine Script® indicators and strategies for TradingView, designed to provide comprehensive market analytics, buy/sell signals, and automated strategy backtesting.
+- **Comprehensive Market Analytics:** Provide a robust suite of Pine Script® indicators tailored for distinct market perspectives (Shop and Stock analytics).
+- **Automated Validation:** Combine standalone indicators into a fully automated strategy tester to backtest signals, manage risk, and evaluate historical performance seamlessly within TradingView.
+- **Visual Intelligence:** Deliver detailed on-chart overlays, dashboards, and real-time statistics panels to clearly communicate trade logic, drawdowns, and capital efficiency.
 
 ## Shop Analytics
 <img width="1024" height="588" alt="Shop Analytics" src="https://github.com/user-attachments/assets/03800ffe-0409-4bf1-b01d-d3a442f3c95c" />
@@ -50,11 +52,11 @@ iaTrader is a suite of Pine Script® indicators and strategies for TradingView, 
 #### Capital efficiency - Capital usage
 <img width="1281" height="212" alt="image" src="https://github.com/user-attachments/assets/2c08d31a-58f2-429d-b0ca-53a8510010ad" />
 
-## Modules & Features
+## 🚀 Key Features
 
-- **Shop Analytics** (`shop/`): A custom adaptive indicator that tracks price volatility using an efficiency ratio. It generates precise long and short signals with custom chart labels and alert conditions.
-- **Stock Analytics** (`stock/`): An oscillator-based indicator that visualizes overbought and oversold levels, trend direction histograms, and moving average crossovers for momentum trading.
-- **Strategy Tester** (`strategy/`): A complete trading strategy combining the core analytics with EMA 200 trend filtering, ADX filtering, ATR-based risk management (Stop Loss / Take Profit), and a real-time statistics panel showing win rate, profit factor, and net profit.
+- **Shop Analytics (`shop/`):** A custom adaptive indicator tracking price volatility via an efficiency ratio, generating precise long/short signals with custom labels and alerts.
+- **Stock Analytics (`stock/`):** An oscillator-based momentum indicator visualizing overbought/oversold levels, trend direction histograms, and moving average crossovers.
+- **Strategy Tester (`strategy/`):** A complete trading strategy unifying the core analytics with EMA 200 trend filtering, ADX filtering, and ATR-based risk management (SL/TP), complete with a real-time on-chart performance panel.
   
 ## Submodules
 
